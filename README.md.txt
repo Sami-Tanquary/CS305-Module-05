@@ -5,7 +5,4 @@ Module 05 Project
 
 This is a test project for the week 5 assignment in CS305 at NAU. It uses a default GNU License.
 
-
-Jordan Was Here 0.o
-=======
-It's dangerous business mr frodo, leaving your door
+It's dangerous business mr frodo, going out your door - 2
